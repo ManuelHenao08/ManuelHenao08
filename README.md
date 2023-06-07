@@ -1,9 +1,9 @@
 ## Hello world, I'm Manuel ✌️
 
-- Mechatronics Engineer.
+- [Mechatronics Engineer](https://drive.google.com/file/d/1IRRyN_yXTJQB0wSWVpcmiDlag6R4Wncv/view).
 - AI Specialist
 - Full-stack developer in Python. 
-- Experinece on Edge AI projects.
+- Experience on Edge AI projects.
 - Cloud platforms: AWS, Azure and GCP.
 
 Proficient in MATLAB, and C++. With experience also working with Ml/Dl/Data Science libraries such as Tensorflow, PyTorch, Scikit-Learn, Scipy, Pandas, and Opencv. Also, I acquired a strong foundation in robotics, and control systems.  
