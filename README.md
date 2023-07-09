@@ -32,6 +32,6 @@ Proficient in MATLAB, and C++. With experience also working with Ml/Dl/Data Scie
 
 ## 📫 Connect with me
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mhenaora)
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="assets/icons/linkedin_icon.png" />](https://www.linkedin.com/in/mhenaora)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="assets/icons/cv.png" />](https://drive.google.com/file/d/1juOkdKFGoo2ALClen8naIi_c6c9r8LZP/view?usp=sharing)
 
